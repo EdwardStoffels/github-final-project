@@ -6,8 +6,8 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <EdwardStoffels>
-
+   # EdwardStoffels
+ 
    # Input:
    # p, principal amount
    # t, time period in years
